@@ -1,11 +1,4 @@
-# 🎮 Elite Gamers United - Official Website
-
-🚀 **Elite Gamers United (EGU)** is a professional multi-game esports organization based in India.  
-This website is designed to showcase our **teams, tournaments, latest news, merchandise store, and sponsors.**
-
----
-
-## 📁 Project Structure
+## 📁 Project Root Structure
 
 Elite-Gamers-United/
 ├── docs/                             # Documentation files
